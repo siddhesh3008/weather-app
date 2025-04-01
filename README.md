@@ -71,6 +71,4 @@ This project is licensed under the **MIT License**.
 
 ---
 
-💡 **Developed by Siddhesh** | 🌐 [Live Demo](https://weather-app-orcin-nu-93.vercel.app/)  
-
 🚀 Happy Coding! 😊
